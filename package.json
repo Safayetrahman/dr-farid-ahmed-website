@@ -1,0 +1,14 @@
+{
+  "name": "dr-farid-ahmed-appointment-system",
+  "version": "1.0.0",
+  "description": "Appointment and serial management system for Dr. Farid Ahmed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "better-sqlite3": "^11.8.1"
+  }
+}
